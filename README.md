@@ -37,7 +37,7 @@ heart-disease-prediction/
 * Logistic Regression Model
 
 The app is fully responsive and works on mobile browsers.
-URL of this app - 
+URL of this app -  https://heart-disease-prediction-dxbr5dvs9nuqglguqtcp8m.streamlit.app/
 ---
 
 ## 🙌 Acknowledgements
